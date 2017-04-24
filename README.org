@@ -1,0 +1,2 @@
+* MarcoEmbedded
+** A short script to handle macros embedded
